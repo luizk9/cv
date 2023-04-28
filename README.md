@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="foto da pagina do Curriculum Vitae (CV)" src=".github/cv.png" width="100%">
+  <img alt="foto da pagina do Curriculum Vitae (CV)" src="cv.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
